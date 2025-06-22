@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Arya Rathore</h1>
 <h3 align="center">Student at IIITM Gwalior. Aspiring Full Stack Developer. Graphic Designer. Video Editor</h3>
  
-About Me:
 I'm Electrical and Electronics undergraduate from IIITM Gwalior. I'm currently learning web development and diving into the world of open source contribution.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-rathore-0b671528a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryarathoree@gmail.com) 
