@@ -16,4 +16,4 @@ I'm second year Electrical and Electronics undergraduate from IIITM Gwalior. I'm
 ![](https://nirzak-streak-stats.vercel.app/?user=aryarathoree&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryarathoree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on Github](https://komarev.com/ghpvc/?username=aryarathoree)
