@@ -1,18 +1,55 @@
-<h1 align="center">Hi, I'm Arya Rathore</h1>
-<h3 align="center">Student at IIITM Gwalior . MERN Developer . Graphic Designer . Video Editor</h3>
- 
-# About Me:
-I'm second year Electrical and Electronics undergraduate from IIITM Gwalior. I'm currently learning web development and diving into the world of open source contribution.
+<h1 align="center">👋 Hi, I'm Arya Rathore</h1>
+<h3 align="center">Student @ IIITM Gwalior • MERN Developer • Designer • Editor</h3>
 
+---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-rathore-0b671528a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryarathoree@gmail.com) 
+## 🖤 About Me  
+I’m second year Electrical and Electronics undergraduate from IIITM Gwalior. I’m full stack MERN developer and exploring analytics.
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryarathoree&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryarathoree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-![Profile view counter on Github](https://komarev.com/ghpvc/?username=aryarathoree)
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-rathore-0b671528a)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryarathoree@gmail.com)  
+
+---
+
+## ⚡ Tech Stack  
+![C](https://img.shields.io/badge/-C-0A0A0A?style=flat&logo=c&logoColor=00599C)  
+![C++](https://img.shields.io/badge/-C++-0A0A0A?style=flat&logo=c%2B%2B&logoColor=00599C)  
+![Java](https://img.shields.io/badge/-Java-0A0A0A?style=flat&logo=openjdk&logoColor=ED8B00)  
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat&logo=python&logoColor=FFD43B)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=F7DF1E)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0A0A0A?style=flat&logo=kotlin&logoColor=7F52FF)  
+![HTML5](https://img.shields.io/badge/-HTML5-0A0A0A?style=flat&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/-CSS3-0A0A0A?style=flat&logo=css3&logoColor=1572B6)  
+![React](https://img.shields.io/badge/-React-0A0A0A?style=flat&logo=react&logoColor=61DAFB)  
+![Vite](https://img.shields.io/badge/-Vite-0A0A0A?style=flat&logo=vite&logoColor=646CFF)  
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat&logo=nodedotjs&logoColor=339933)  
+![Express.js](https://img.shields.io/badge/-Express.js-0A0A0A?style=flat&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=flat&logo=mysql&logoColor=4479A1)  
+![Firebase](https://img.shields.io/badge/-Firebase-0A0A0A?style=flat&logo=firebase&logoColor=FFCA28)  
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-0A0A0A?style=flat&logo=google-cloud&logoColor=4285F4)  
+![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat&logo=git&logoColor=F05032)  
+![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat&logo=github&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-0A0A0A?style=flat&logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/-Netlify-0A0A0A?style=flat&logo=netlify&logoColor=00C7B7)  
+![NPM](https://img.shields.io/badge/-NPM-0A0A0A?style=flat&logo=npm&logoColor=CB3837)  
+![Arduino](https://img.shields.io/badge/-Arduino-0A0A0A?style=flat&logo=arduino&logoColor=00979D)  
+![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=F24E1E)  
+![Canva](https://img.shields.io/badge/-Canva-0A0A0A?style=flat&logo=canva&logoColor=00C4CC)  
+![Blender](https://img.shields.io/badge/-Blender-0A0A0A?style=flat&logo=blender&logoColor=F5792A)  
+![Photoshop](https://img.shields.io/badge/-Photoshop-0A0A0A?style=flat&logo=adobe-photoshop&logoColor=31A8FF)  
+![Lightroom](https://img.shields.io/badge/-Lightroom-0A0A0A?style=flat&logo=adobe-lightroom&logoColor=31A8FF)  
+![Krita](https://img.shields.io/badge/-Krita-0A0A0A?style=flat&logo=krita&logoColor=EEF37B)  
+![Notion](https://img.shields.io/badge/-Notion-0A0A0A?style=flat&logo=notion&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=aryarathoree&theme=radical&hide_border=true&show_icons=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryarathoree&theme=radical&hide_border=true&layout=compact)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=aryarathoree&color=grey&style=flat)
