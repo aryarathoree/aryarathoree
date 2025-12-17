@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Arya Rathore</h1>
-<h3 align="center">Student@IIITM Gwalior • MERN Developer •Graphic Designer</h3>
+<h3 align="center">Student@IIITM Gwalior • MERN Developer</h3>
 
 ---
 
