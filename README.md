@@ -18,9 +18,4 @@ I’m second year Electrical and Electronics undergraduate from IIITM Gwalior. I
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=aryarathoree&theme=radical&hide_border=true&show_icons=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryarathoree&theme=radical&hide_border=true&layout=compact)  
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=aryarathoree&color=grey&style=flat)
